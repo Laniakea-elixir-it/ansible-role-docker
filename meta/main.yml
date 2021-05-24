@@ -3,7 +3,8 @@ galaxy_info:
   description: Install docker engine
   company: INDIGO-DataCloud
   license: Apache
-  min_ansible_version: 2.5
+  min_ansible_version: 2.3
+  role_name: docker
   platforms:
     - name: Ubuntu
       versions:
